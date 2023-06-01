@@ -1,0 +1,24 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section{
+    background-color: #ffff;
+    height: 550px;
+    position: relative;
+}
+form{
+    background-color: #ffff;
+    box-shadow: 3px 5px 7px 1px rgba(0, 0, 0, 0.377);
+    position: relative;
+    
+    
+    
+} h1, h2{
+    color: rgba(255, 20, 145, 0.808);
+}
+
+
